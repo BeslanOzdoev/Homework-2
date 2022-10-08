@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW 2.1\\HW 2.1.csproj": {}
+    "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW2.1\\HW 2.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW 2.1\\HW 2.1.csproj": {
+    "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW2.1\\HW 2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW 2.1\\HW 2.1.csproj",
+        "projectUniqueName": "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW2.1\\HW 2.1.csproj",
         "projectName": "HW 2.1",
-        "projectPath": "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW 2.1\\HW 2.1.csproj",
+        "projectPath": "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW2.1\\HW 2.1.csproj",
         "packagesPath": "C:\\Users\\biozd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW 2.1\\obj\\",
+        "outputPath": "C:\\Users\\biozd\\OneDrive\\Рабочий стол\\C# HW2\\HW2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\biozd\\AppData\\Roaming\\NuGet\\NuGet.Config"
