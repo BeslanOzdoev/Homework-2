@@ -6,7 +6,7 @@ int numberB = int.Parse(Console.ReadLine());
 
 if (numberA < 0 || numberB < 0)
 {
-     Console.Writ16eLine($"Одно из чисел отрицательно, корня квадратного не имеет");
+     Console.WriteLine($"Одно из чисел отрицательно, корня квадратного не имеет");
 }
 else
 {
